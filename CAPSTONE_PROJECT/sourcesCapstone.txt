@@ -1,0 +1,8 @@
+https://ieeexplore.ieee.org/abstract/document/5560598
+https://link.springer.com/chapter/10.1007/978-3-540-89617-3_13
+https://arxiv.org/abs/1307.3147 <-- GPS location tracking
+https://ieeexplore.ieee.org/abstract/document/5767589 <-- Tracking vehicular speed variations 
+https://www.mdpi.com/1424-8220/20/6/1675/htm <-- IoT health monitoring wristwatch
+https://www.sciencedirect.com/science/article/pii/S1532046418302120 <-- smart watch mobility monitoring
+https://www.sciencedirect.com/science/article/abs/pii/S0021929004001204 <-- about gps vs speedometer
+https://ieeexplore.ieee.org/abstract/document/6838194/citations#citations <-- all about smartphone sensors
