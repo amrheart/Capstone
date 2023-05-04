@@ -1,0 +1,1 @@
+This is my final Capstone project. The goal of this project was to create a device that could record data from a bike trip. This data would be stored in a database via pySQL and would then be displayed on a webpage that users could access from any webbrowser. Python flask was used to facilitate the webapp.
